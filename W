@@ -1,5 +1,5 @@
 <html>
-  <title>Wilfri first website</title>
+  <title>Wil's website</title>
   <body bgcolor="blue">
     <h1>Hello Frends!</h1>
     <hr>
